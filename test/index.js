@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import MyModule from '../lib/index';
+import MyModule from '../lib';
 
 describe('MyModule', () => {
   it('should sum two params', () => {
