@@ -1,4 +1,5 @@
-# Why? [![Build Status](https://travis-ci.org/iMagdy/npm-module-starter.svg?branch=master)](https://travis-ci.org/iMagdy/npm-module-starter)
+[![Build Status](https://travis-ci.org/iMagdy/npm-module-starter.svg?branch=master)](https://travis-ci.org/iMagdy/npm-module-starter) [![Codecov](https://img.shields.io/codecov/c/github/iMagdy/npm-module-starter.svg)]()
+
 :page_with_curl: Starter kit for creating node module
 
 # Features
