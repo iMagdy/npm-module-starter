@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iMagdy/npm-module-starter.svg?branch=master)](https://travis-ci.org/iMagdy/npm-module-starter) [![Codecov](https://img.shields.io/codecov/c/github/iMagdy/npm-module-starter.svg)]()
+[![Build Status](https://travis-ci.org/iMagdy/npm-module-starter.svg?branch=master)](https://travis-ci.org/iMagdy/npm-module-starter) [![codecov](https://codecov.io/gh/iMagdy/npm-module-starter/branch/master/graph/badge.svg)](https://codecov.io/gh/iMagdy/npm-module-starter)
 
 :page_with_curl: Starter kit for creating node module
 

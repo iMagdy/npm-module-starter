@@ -5,6 +5,8 @@ script:
   - npm run lint
   - npm run build
   - npm run test
+  - npm run cover
+  - npm run codecov
 branches:
   only:
     - master
